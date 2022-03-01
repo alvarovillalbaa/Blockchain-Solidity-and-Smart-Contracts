@@ -1,5 +1,6 @@
 Blockchain is a disruptive technology focused on data encryption for its usage. Solidity represents the functionality and JavaScript or other language sets the ground for its data structure.
 
+```
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.6.0;
@@ -57,4 +58,4 @@ contract Notes {
         nameToFavoriteNumber[_name] = _favoriteNumber;
     }
 }
-
+```
