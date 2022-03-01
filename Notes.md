@@ -57,5 +57,4 @@ contract Notes {
         nameToFavoriteNumber[_name] = _favoriteNumber;
     }
 }
-'''
 
